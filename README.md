@@ -1,2 +1,2 @@
 # ArchLinux4LazyPeople
-A Mirror List
+The Image Files
